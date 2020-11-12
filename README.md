@@ -11,5 +11,5 @@ A program used to automate your day to day task
   node script.js
 ```
 ### Demo 🔥
-
+<img src="./gif.gif" alt="gif"/>
 
