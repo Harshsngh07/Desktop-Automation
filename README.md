@@ -1,5 +1,5 @@
 # Desktop-Automation 🖥️
-A program used to automate your day to day task
+A script used to automate your day to day task
 
 ### Idea behind this Project 💡
 - Whenever I open my laptop I start some specific 3-4 softwares to work upon.
