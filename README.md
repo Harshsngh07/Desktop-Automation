@@ -14,6 +14,6 @@ A program used to automate your day to day task
 ### Demo 🔥
 <img src="./gif.gif" alt="gif"/>
 
-Made with ❤️ HS
+Made with ❤️ by <b>HS</b>
 <p>MIT License</p>
 
