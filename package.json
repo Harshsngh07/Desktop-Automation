@@ -1,0 +1,14 @@
+{
+  "name": "desktop-automation",
+  "version": "1.0.0",
+  "description": "A script to automate your daily day to day tasks.",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "author": "Harsh Singh",
+  "license": "MIT",
+  "dependencies": {
+    "robotjs": "^0.6.0"
+  }
+}
